@@ -14,7 +14,7 @@ class Tab {
     }
 }
 
-public class First {
+public class HistoryManagement{
     private static Tab currentTab;
     private static Stack<Tab> backStack = new Stack<>();
     private static Stack<Tab> forwardStack = new Stack<>();
