@@ -22,10 +22,10 @@ This is a simple Java-based browser history manager that allows users to navigat
 1. Clone the repository or download the source code.
 2. Compile the Java file:
    ```sh
-   javac First.java
+   javac HistoryManagement.java
 3. Run the program:
    ```sh
-   java First
+   java HistoryManagement
    
 Follow the on-screen instructions to manage your browser tabs.
 
